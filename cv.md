@@ -42,8 +42,8 @@ HTML course by Sololearn \
 \
 CSS course by Sololearn \
 \
-Programming fudamentals by Geekbeains\
-\
+Programming fudamentals by Geekbeains \
+
 
 ## Languages
 Russian - native \
