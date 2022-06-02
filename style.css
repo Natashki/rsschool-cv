@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+body{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+
+.resume {
+    width: 1000px;
+    align-content: center;
+}
+
+h2 {
+    margin-bottom: 0;
+    background: linear-gradient(90deg, rgb(210, 210, 210), white);
+    text-indent: 10px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.code {
+    align-content:  center;
+    width: 400px;
+    margin-left: 15px;
+    background: #fff5d7;
+}
+
+.contact {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+
+.respons{
+    position: relative; 
+    top: 0; 
+    right: 0;
+    margin-left: 250px;
+    margin-top: -37px;
+    
+}
+
+.l {
+    margin-left: 15px;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-left: 20px;
+    
+}
+
+.head_i {
+    margin-left: 100px;
+    margin-bottom: 0px;
+    
+
+}
+
+.fio{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    
+    
+}
+
+.job{
+    margin-top: 0px;
+    
+}
+
+.info{
+    margin-bottom: 10px;
+}
+
+.logo{
+    width: 100px;
+    height: 50px;
+    align-content: center;
+  
+} 
+
+
